@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #0b1220 0%, #071021 100%);
+  color: #e6eef8;
+  font-family: 'Poppins', sans-serif;
+}

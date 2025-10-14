@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+ping3
+psutil
+requests
+pydantic
+dnspython
