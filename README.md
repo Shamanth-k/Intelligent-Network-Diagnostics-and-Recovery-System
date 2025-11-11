@@ -149,22 +149,4 @@ The daemon will continuously ping configured hosts and stream updates via WebSoc
 
 ---
 
-## 🚧 Future Enhancements
 
-* 🔐 Add authentication and user roles.
-* 💾 Store logs in a persistent database.
-* 📈 Add visual graphs for uptime and response time metrics.
-* 📧 Automated alerts via email/SMS.
-
----
-
-## 📜 License
-
-MIT License © 2025 **IntelliNet**
-
-```
-
----
-
-Would you like me to make a **developer quick-start version** too (a concise one-page README just for contributors)? It’s ideal if you plan to host it on GitHub.
-```
