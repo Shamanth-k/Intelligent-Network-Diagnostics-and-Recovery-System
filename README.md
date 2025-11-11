@@ -1,4 +1,4 @@
-```markdown
+
 # ⚙️ IntelliNet
 
 **IntelliNet** is a real-time **network monitoring and auto-healing system** built with **React.js** (frontend) and **FastAPI** (backend).  
@@ -44,7 +44,6 @@ IntelliNet/
 
 ````
 
----
 
 ## 🚨 Key Features
 
